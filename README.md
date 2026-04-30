@@ -1,4 +1,26 @@
-## Hi there 👋
+## 👋 Hi, I'm Jeremy!
+
+📊 Data professional with 15+ years across data governance, compliance analytics, and systems architecture. Most recently Senior Information Management Analyst at USAA; before that, nearly a decade at DTCC.
+
+I help organizations turn messy enterprise data into reliable, well-governed information assets, mostly in financial services.
+
+### 🛠️ What I work with
+- **Languages:** SQL, Python, SAS
+- **Platforms:** Snowflake, Tableau, ServiceNow, IBM InfoSphere IGC
+- **Workflow:** JIRA, Confluence
+- **Frameworks:** CDMP-aligned data governance, SAFe Agile, ICP
+
+### 🎾 Outside of work
+- 🥎 **Special Olympics Florida** — long-tenured volunteer coach
+- 🎾 **Tennis for Fun** — coaching and keeping the sport accessible around Tampa Bay
+- 📍 Based in the Tampa, FL area, usually outdoors when I'm not at a keyboard
+
+### 🌱 Currently going deeper on
+- 🤖 **MIT Sloan Applied AI program** — how AI changes data governance, compliance, and analytics work
+- 📐 Practical patterns for AI-assisted data quality, lineage, and policy automation
+
+### 📬 How to reach me
+- 💼 [LinkedIn](https://linkedin.com/in/jeremyaf/)
 
 <!--
 **Jerebear/jerebear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
