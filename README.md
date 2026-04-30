@@ -2,8 +2,6 @@
 
 📊 Data professional with 15+ years across data governance, compliance analytics, and systems architecture. Most recently Senior Information Management Analyst at USAA; before that, nearly a decade at DTCC.
 
-I help organizations turn messy enterprise data into reliable, well-governed information assets, mostly in financial services.
-
 ### 🛠️ What I work with
 - **Languages:** SQL, Python, SAS
 - **Platforms:** Snowflake, Tableau, ServiceNow, IBM InfoSphere IGC
