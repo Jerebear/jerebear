@@ -12,8 +12,7 @@ I help organizations turn messy enterprise data into reliable, well-governed inf
 
 ### 🎾 Outside of work
 - 🥎 **Special Olympics Florida** — long-tenured volunteer coach
-- 🎾 **Tennis for Fun** — coaching and keeping the sport accessible around Tampa Bay
-- 📍 Based in the Tampa, FL area, usually outdoors when I'm not at a keyboard
+- 🎾 **Tennis for Fun** 
 
 ### 🌱 Currently going deeper on
 - 🤖 **MIT Sloan Applied AI program** — how AI changes data governance, compliance, and analytics work
